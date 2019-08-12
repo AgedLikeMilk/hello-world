@@ -1,2 +1,2 @@
 # hello-world
-furwst pwrogwam
+first program
